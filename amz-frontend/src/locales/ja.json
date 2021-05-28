@@ -1,0 +1,269 @@
+{
+  "date_format": {
+    "ja": "YYYY年MM月DD日  HH時mm分"
+  },
+  "messages": {
+    "linking_your_line_account": "LINEアカウントをリンクしている．．．ちょっと待ってください",
+    "app_title": "Amazonツール",
+    "amazon_account_title": "Amazonアカウント",
+    "dashboard": "ダッシュボード",
+    "app_title_template": "%s | Amazon ツール",
+    "password_hint": "最低6文字必要です。",
+    "login": "ログイン",
+    "email": "メールアドレス",
+    "full_name": "名前",
+    "add_new_user_title": "ユーザーの追加",
+    "password": "パスワード",
+    "sign_in": "ログイン",
+    "sign_up": "サインアップ",
+    "profile": "プロフィール",
+    "status": "ステータス",
+    "actions": "アクション",
+    "created_date": "作成日時",
+    "updated_date": "更新日時",
+    "last_modified_date": "最終更新日",
+    "change_your_password": "パスワード変更",
+    "connected_to_line": "LINE接続済",
+    "link_to_line": "LINEへのリンク",
+    "re_link_to_line": "再LINEへのリンク",
+    "connected_successful": "接続成功!",
+    "back_to_profile": "プロフィールへ戻る",
+    "close": "閉じる",
+    "forgot_password": "パスワードを忘れた",
+    "old_password": "現在のパスワード",
+    "new_password": "新しいパスワード",
+    "confirm_password": "新しいパスワード（再入力）",
+    "save": "保存",
+    "ok": "OK",
+    "cancel": "キャンセル",
+    "change_password": "パスワード変更",
+    "page_not_found": "ページが存在しません :(",
+    "go_to_homepage": "ホームページへ移動",
+    "created_successfully": "作成成功",
+    "list_amazon_accounts": "Amazonアカウント一覧",
+    "new_account": "アカウント作成",
+    "create_new_amazon_account": "Amazonアカウント新規作成",
+    "edit_amazon_account": "アカウントの編集",
+    "delete_account": "アカウント削除",
+    "do_you_want_to_delete_account": "<b>{account}</b> のアカウントを削除しますか。",
+    "item_deleted_successfully": "アイテムを削除しました。",
+    "yes": "はい",
+    "no": "いいえ",
+    "reload": "リロード",
+    "send": "送信",
+    "go_to_forgot_password": "パスワードをお忘れですか？",
+    "successful": "成功した",
+    "error_500": "サーバーエラー",
+    "unauthorize": "不正なアクション",
+    "updated_successfully": "更新成功",
+    "save_successfully": "保存成功",
+    "logout": "ログアウト",
+    "settings": "セッティング",
+    "login_failed": "ログインに失敗しました",
+    "server_error": "サーバーエラー",
+    "old_password_invalid": "お先パスワードが無効です",
+    "cant_login_amazon": "Amazonにログインできません",
+    "drawer_header_first": "AMZ",
+    "drawer_header_second": "ツール",
+    "all_right_reserve": "すべての権利が逆転しました",
+    "list_empty": "空のリスト",
+    "loading_item": "アイテムを取得しています．．.",
+    "email_notfound": "メールが無効です",
+    "completed": "完了",
+    "try_to_login_to_amazon": "あなたのメールをチェックして, アカウントを確認してください",
+    "please_check_otp": "あなたのメールをチェックして，OTPコードを取得してください",
+    "otp": "OTPコード",
+    "verify_your_account": "アカウントを確認してください",
+    "polling_canceled": "アカウント確認が中止されました, 再ログインしてみてください",
+    "re_login": "再ログイン",
+    "VERIFY": "確認しない",
+    "ACTIVE": "アクティブ",
+    "NOT_VERIFY": "確認しない",
+    "finding_product": "商品情報同期中",
+    "cant_find_product": "製品が見つかりません",
+    "please_wait": "読み込み中。。。待って下さい",
+    "filter_auto": "オンライン自動注文",
+    "filter_asin": "Ex: A2V2BKSJ3A",
+    "filter_name": "名前",
+    "filter_status": "ステータス",
+    "log_title": "{asin} ログ",
+    "please_enter_captcha": "キャプチャを入力してください",
+    "captcha": "キャプチャ",
+    "password_invalid": "パスワードが無効です",
+    "captcha_failed": "キャプチャが無効です",
+    "otp_failed": "OTPコードが無効です",
+    "email_existed": "メールが存在しました！",
+    "none": "無し",
+    "please_change_amazon_password": "このアカウントのパスワードを変更してください",
+    "cant_delete_admin_account": "システム管理者は削除できません",
+    "user_deleted_successfully": "ユーザを削除しました",
+    "group": "グループ",
+    "user": "ユーザー",
+    "email_taken": "メールは既に存在します",
+    "to_time_24": "00:00の場合は24:00です"
+  },
+  "line": {
+    "title": "LINE",
+    "connected": "接続済み",
+    "not_connected": "接続されていません",
+    "expire_time": "有効期限",
+    "created_by": "作者",
+    "target": "名前",
+    "target_type": "タイプ"
+  },
+  "validator": {
+    "required": "この項目は必須です",
+    "email_invalid": "メールが無効です",
+    "password_invalid": "6文字以上の英数字にしてください。",
+    "10_characters": "10文字以上の英数字にしてください。",
+    "confirm_password_invalid": "新パスワードと再入力パスワードが一致しません。"
+  },
+  "account": {
+    "status_filters": {
+      "ACTIVE": "アクティブ",
+      "NOT_VERIFY": "確認しない",
+      "BLOCK": "ブロック",
+      "All": "全部",
+      "CAPTCHA": "キャプチャ"
+    }
+  },
+  "user": {
+    "edit_user": {
+      "title": "ユーザーの編集"
+    },
+    "list_user": {
+      "title": "ユーザーリスト"
+    }
+  },
+  "routes": {
+    "Dashboard": "ダッシュボード",
+    "UserProfile": "ユーザープロファイル",
+    "UserChangePass": "パスワードの変更",
+    "AddUser": "ユーザーの追加",
+    "UserList": "ユーザーリスト",
+    "AccountList": "Amazonアカウントリスト",
+    "AmazonAccountEdit": "Amazonアカウント編集",
+    "EditUser": "ユーザーの編集",
+    "AutomationList": "自動注文リスト",
+    "LineFallback": "LINEコネクト",
+    "OrderList": "注文リスト",
+    "LineDetail": "LINE詳細"
+  },
+  "order": {
+    "title": "注文リスト",
+    "detail": {
+      "product_title": "製品詳細",
+      "coupon": "クーポン",
+      "point": "ポイント",
+      "seller_title": "出品者",
+      "email": "メール",
+      "account_title": "商品名",
+      "total_detail": "注文合計",
+      "title": "注文ディテール",
+      "asin": "ASIN",
+      "name": "名前",
+      "price": "価格",
+      "rating": "評価",
+      "ordered_price": "注文価格",
+      "quantity": "量",
+      "total": "製品合計"
+    }
+  },
+  "setting": {
+    "log": {
+      "title": "活動記録"
+    },
+    "headers": {
+      "purchaseQuantity": "買った量",
+      "quantity": "量",
+      "total": "合計",
+      "id": "ID",
+      "content": "内容",
+      "type": "タイプ",
+      "title": "自動注文",
+      "setting_name": "設定",
+      "status": "ステータス",
+      "asin": "ASIN",
+      "created_date": "作成日",
+      "action": "アクション",
+      "image": "写真",
+      "from": "開始",
+      "to": "終了",
+      "price": "価格",
+      "created_by": "作者"
+    },
+    "messages": {
+      "do_you_want_to_delete_setting": "<b>{asin}</b> の設定を消しますか？",
+      "new_setting": "新しい設定",
+      "edit_setting": "設定の編集",
+      "settings": "設定"
+    },
+    "labels": {
+      "status": "ステータス",
+      "automation": "自動注文",
+      "prime_only": "プライムのみ",
+      "asin": "ASIN",
+      "from_date": "開始日",
+      "to_date": "終了日",
+      "from_time": "監視開始時間",
+      "to_time": "監視終了時間",
+      "seller_options": "販売者オプション",
+      "except_sellers": "定の出品者からの購入を除外する ",
+      "account_options": "アカウント",
+      "rating": "評価",
+      "max_price": "最高価格",
+      "price_options": "価格オプション",
+      "quantity": "量",
+      "quantity_options": "量オプション",
+      "product_name": "商品名",
+      "max_amount": "最高量"
+    },
+    "seller_options": {
+      "ALL": "全部",
+      "AMAZON_ONLY": "Amazonのみ",
+      "EXCLUDE_SELLER": "特定の出品者からの購入を除外する",
+      "EXCLUDE_RATE_LOWER": "〇〇以下の評価"
+    },
+    "quantityOptions": {
+      "MAX_QUANTITY": "最高量",
+      "DIVIDE_EQUALLY": "垢毎に〇個"
+    },
+    "priceOptions": {
+      "MINUS_COUPON": "クーポン割引後の値段",
+      "MINUS_POINT": "ポイント後の値段"
+    }
+  },
+  "v-table": {
+    "tooltip": {
+      "status": "ステータス",
+      "edit": "編集",
+      "delete": "削除",
+      "log": "ログ",
+      "detail": "詳細",
+      "relogin": "再ログイン"
+    },
+    "headers": {
+      "product_name": "商品名",
+      "detail": "詳細",
+      "status": "ステータス",
+      "id": "ID",
+      "email": "メールアドレス",
+      "created_date": "作成日時",
+      "modified_date": "最終更新日",
+      "actions": "アクション",
+      "items-per-page": " 1 ページに表示するアイテム",
+      "page-text": "の",
+      "seller": "販売者",
+      "price": "価格",
+      "account": "アカウント",
+      "image": "写真"
+    }
+  },
+  "dashboard": {
+    "headers": {
+      "current_active": "アクティブ ユーザー",
+      "current_automation": "オンライン自動注文",
+      "current_amazon_account": "Amazonアカウント"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+[mysqld]
+# created and no character set is defined
+character-set-server=utf8mb4
+collation-server = utf8mb4_unicode_ci
+# Set the SQL mode to strict
+sql-mode="STRICT_TRANS_TABLES,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION,NO_ZERO_DATE,NO_ZERO_IN_DATE,ERROR_FOR_DIVISION"
+max_connections = 300
+max_allowed_packet = 200M
+innodb_lock_wait_timeout=200
+explicit_defaults_for_timestamp=true
+#default_time_zone='+07:00'
+lower_case_table_names=1
+
+#slow query log
+#slow_query_log_file = '/var/lib/mysql/slow_queries.log'
+#long_query_time = 3
+#slow_query_log = 1
